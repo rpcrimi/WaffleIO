@@ -20,3 +20,7 @@ echo "Stuff about adding stories" >> markdown/adding_stories.md
 	- We push the changes to our public repo with the `git push origin master` command
 - If we look at our Waffle board, we will see the specified story or issue has moved itself into the "Done" column:
 ![Moved to Done](/images/w_moved_to_done.png?raw=true "Moved to Done")
+- If we look at our GitHub issues, we will also see that this issue has been closed:
+![Issue Closed](/images/gh_issue_1_closed.png?raw=true "Issue Closed")
+
+Up Next: [More Git Integration](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/git_integration_more.md)
