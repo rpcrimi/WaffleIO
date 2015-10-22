@@ -11,4 +11,4 @@
 6. Click "Lets Go" to confirm you would like to start working with Waffle
 7. You are now ready to start working!
 
-Next Up: [Getting To Know Waffle](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/learn_waffle.md)
+Up Next: [Getting To Know Waffle](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/learn_waffle.md)

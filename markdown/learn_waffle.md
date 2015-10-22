@@ -15,10 +15,12 @@ After going through the previous steps, you should be viewing the following boar
 
 ## Kanban
 Now focus your attention to the 4 columns on the screen. 
-- Waffle acts as a dynamic Kanban board. A Kanban board is a lightweight tool to allow developers in agile life-cycles to easily move stories and issues throughout production processes. These boards are usually written on a physical board as we can see below:
+- Waffle acts as a dynamic Kanban board. A Kanban board is a lightweight tool to allow developers in agile life-cycles to easily move stories and issues throughout production processes. These boards are usually written on a physical board as we observe:
 ![Typical Kanban Board](/images/kanban_board.jpg?raw=true "Typical Kanban Board")
 	- When a team has decided to add a story, they write it down on a note and post it in the "To Do" column.
 	- When the team is ready to work on this story, they can move it into the "Doing" column.
 	- When the team is finished with the story, they move the note into the "Done" column.
 
-- Waffle makes this board digital. These are labeled as "Backlog", "Ready", "In-Progress", and "Done". 
+- Waffle acts as a digital Kanban board. The default columns for Waffle's Kanban board are labeled "Backlog", "Ready", "In-Progress", and "Done". These columns can be modified in "Settings". For example, a team could delete the "Ready" column if they deem it unnecessary. Teams can add stories and issues through the "Add Issue" button which will add a new note to the first column of the board ("Backlog").
+
+Up Next: [Adding Stories](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/adding_stories.md)
