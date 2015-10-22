@@ -6,4 +6,6 @@ Waffle.io is an advanced activity tracker for GitHub. It was created in 2003 by 
 
 ## Table of Contents
 1. [Set-Up] (https://github.com/rpcrimi/WaffleIO/blob/master/markdown/set_up.md)
-5. [Conclusion] (https://github.com/rpcrimi/PEP0008/blob/master/markdown/conclusion.md)
+2. [Learning Waffle](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/learn_waffle.md)
+3. [Adding Stores](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/adding_stories.md)
+4. [Conclusion] (https://github.com/rpcrimi/PEP0008/blob/master/markdown/conclusion.md)
