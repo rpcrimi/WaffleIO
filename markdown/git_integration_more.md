@@ -14,3 +14,5 @@ git checkout -b bug-fix
 
 - We can issue pull requests through GitHub and include "closes #<issue_num>" in the title to allow Waffle to keep track of the change.
 - Once the pull request has been reviewed, we can commit the changes by including "resolves #<issue_num>" in the commit message.
+- We can then push the changes to master and view the results on Waffle:
+![Moved to Done 2](/images/w_moved_to_done_2.png?raw=true "Moved to Done 2")
