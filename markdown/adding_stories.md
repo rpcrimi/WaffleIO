@@ -12,10 +12,14 @@ Lets add a new story to our Kanban board.
 - The story will also appear in the issues section of your GitHub repo:
 ![Story In GitHub](/images/gh_story_in_issues.png?raw=true "Story In GitHub")
 
-- We can assign the story points as follows:
+- You can assign the story points as follows:
 ![Assign Points](/images/w_assign_points.png?raw=true "Assign Points")
 	- Story points are a measure of how much time a story will take to complete. 
 	- Story points are typically measured in hours.
-- Lets move this story into the "Ready" column. This column contains stories that are ready to be worked on during the current iteration.
-- We can assign this story to a user as follows:
+- Lets move this story into the "Ready" column. To do so, click and drag the story over into the "Ready" column. The "Ready" column contains stories that are ready to be worked on during the current iteration.
+- You can assign this story to a user as follows:
 ![Assign Story](/images/w_assign_story.png?raw=true "Assign Story")
+
+You are now ready to start working on your issues.
+
+Up Next: [Git Integration](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/git_integration.md)
