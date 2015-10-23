@@ -11,7 +11,6 @@ git checkout -b bug-fix
 - This will automatically move the card with issue #2 into the "In-Progress" column. It will also assign the GitHub user that issued this command as an owner of this story.
 ![Moved to In-Progress](/images/w_new_branch_2.png?raw=true "Moved to In-Progress")
 - This feature allows teams to easily assign stories and issues to developers and ensure that all work will be done in a branch other than "master".
-
 - We can issue pull requests through GitHub and include "closes #<issue_num>" in the title to allow Waffle to keep track of the change.
 - Once the pull request has been reviewed, we can commit the changes by including "resolves #<issue_num>" in the commit message.
 - We can then push the changes to master and view the results on Waffle:
