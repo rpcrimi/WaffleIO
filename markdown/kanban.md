@@ -1,5 +1,6 @@
 # Kanban
 
+## Toyota
 ![Toyota Kanban](/images/toyota_kanban.jpg?raw=true "Toyota Kanban")
 
 Kanban is an approach to software development where teams focus on continuous delivery. It is an agile life-cycle used when teams need to react to ever changing requirements from customers. 
@@ -8,6 +9,7 @@ Originally developed by Toyota in 1953, Kanban was developed as a production tec
 
 This style of production allows for products to leave the facility in a continuous stream. A particular team can never be blocked waiting for another team to finish work. If such a block occurs, the blocked team simply switches their focus to another task, thus ensuring continuous production.
 
+## Kanban Development
 Kanban development emerged from Toyota's production technique.  
 
 Waffle is focused around a Kanban development life-cycle and acts as a dynamic Kanban board. A Kanban board is a tool to allow developers in agile life-cycles continuously move stories and issues throughout production processes. These boards are usually written on a physical board as we observe below:
