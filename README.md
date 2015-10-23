@@ -12,4 +12,4 @@ Waffle.io is an online Kanban board integrated with GitHub. It was created in 20
 5. [Git Integration](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/git_integration.md)
 6. [Git Integration: More!](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/git_integration_more.md)
 7. [Waffle Advantages](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/waffle_advantages.md)
-8. [Conclusion](https://github.com/rpcrimi/PEP0008/blob/master/markdown/conclusion.md)
+8. [Conclusion](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/conclusion.md)
