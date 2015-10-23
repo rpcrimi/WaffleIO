@@ -12,6 +12,8 @@ In this section, we will focus on setting up a new Waffle project and integratin
 ![Add new Waffle board](/images/w_homescreen.png?raw=true "New Waffle Board")
 5. Select your new GitHub repo in the list of available repos. If you do not see the new repo, type the name into the search bar.
 6. Click "Lets Go" to confirm you would like to start working with Waffle
-7. You are now ready to start working with Waffle!
+7. After going through the previous steps, you should be viewing the following board:
+![Waffle Board](/images/w_board.png?raw=true "Waffle Board")
+8. You are now ready to start working with Waffle!
 
 Up Next: [Getting To Know Waffle](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/learn_waffle.md)
