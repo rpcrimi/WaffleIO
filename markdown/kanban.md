@@ -1,9 +1,9 @@
 # Kanban
 
+Kanban is an approach to software development where teams focus on continuous delivery. It is an agile life-cycle used when teams need to react to ever changing requirements from customers. 
+
 ## Toyota
 ![Toyota Kanban](/images/toyota_kanban.jpg?raw=true "Toyota Kanban")
-
-Kanban is an approach to software development where teams focus on continuous delivery. It is an agile life-cycle used when teams need to react to ever changing requirements from customers. 
 
 Originally developed by Toyota in 1953, Kanban was developed as a production technique to meet the ever changing demand for their products. A research team at Toyota studied how supermarkets efficiently stocked their shelves and realized that the supermarkets would stock only the supply of items that they expected customers would demand at a given time. For example, when the demand for a product decreased, so would the supply of that product. Toyota inherited this technique to their production floor. Let's image a production crew consisting of three teams: A, B, and C. Team A feeds their work to B and likewise from B to C. If team B became overwhelmed with work, Kanban would allow team A to stop production and move to something else. Furthermore, since team C would see a decrease in incoming work, they could focus their attention on something else. When team B is back on track, teams A and C can start working on their original tasks. 
 
