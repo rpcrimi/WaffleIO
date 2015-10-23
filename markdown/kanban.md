@@ -9,3 +9,5 @@ Waffle is focused around a Kanban development life-cycle and acts as a dynamic K
 - When the team is finished with the story, they move the note into the "Done" column.
 
 This style of monitoring allows teams to continuously move stories and issues throughout the development life-cycle.
+
+Up Next: [Set-Up](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/set_up.md)

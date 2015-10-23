@@ -17,3 +17,5 @@ git checkout -b bug-fix
 - Once the pull request has been reviewed, we can commit the changes by including "resolves #<issue_num>" in the commit message.
 - We can then push the changes to master and view the results on Waffle:
 ![Moved to Done 2](/images/w_moved_to_done_2.png?raw=true "Moved to Done 2")
+
+Up Next: [Waffle Advantages](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/waffle_advantages.md)
