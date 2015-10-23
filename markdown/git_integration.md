@@ -20,6 +20,9 @@ echo "Stuff about adding stories" >> markdown/adding_stories.md
 	- We push the changes to our public repo with the `git push origin master` command
 - If we look at our Waffle board, we will see the specified story or issue has moved itself into the "Done" column:
 ![Moved to Done](/images/w_moved_to_done.png?raw=true "Moved to Done")
+- Waffle also keeps track of the throughput for the current week. For example, we just completed a story that was worth 3 points. At the top of the "Done" column, we can see that Waffle notes that we have completed 1 story and a total of 3 points. If we were to complete another story that was worth 5 points, the column would say we have completed 2 stories and a total of 8 points.
+
+
 - If we look at our GitHub issues, we will also see that this issue has been closed:
 ![Issue Closed](/images/gh_issue_1_closed.png?raw=true "Issue Closed")
 
