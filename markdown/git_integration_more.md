@@ -3,7 +3,7 @@
 We can also allow Waffle to track issues in different branches. One convention that Git users have adopted is using a new branch to work on a new issue. 
 
 - First, lets add another issue. We'll call this issue bug-fix for simplicity:
-![New Story](/images/w_new_story_2.png?raw=true "New Story")
+![New Story](/images/w_add_story_2.png?raw=true "New Story")
 - Typically we create a new branch using the following command:
 ```
 git checkout -b bug-fix
