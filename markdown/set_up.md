@@ -1,5 +1,7 @@
 ## Set-Up
 
+In this section, we will focus on setting up a new Waffle project and integrating the project with GitHub.
+
 1. If you do not already have one, create a GitHub account. You will only need the basic plan to work through this tutorial. 
 	- If you do not know how to use GitHub, read this quick tutorial: [GitHub Tutorial](https://guides.github.com/activities/hello-world/)
 2. Visit (https://waffle.io/) and sign up by choosing "Public Repos" and logging in through your GitHub credentials. 

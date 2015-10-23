@@ -10,14 +10,16 @@ Originally developed by Toyota in 1953, Kanban was developed as a production tec
 This style of production allows for products to leave the facility in a continuous stream. A particular team can never be blocked waiting for another team to finish work. If such a block occurs, the blocked team simply switches their focus to another task, thus ensuring continuous production.
 
 ## Kanban Development
-Kanban development emerged from Toyota's production technique.  
+Kanban development emerged from Toyota's production technique. Kanban development tries to keep a continuous development process while not overloading team members. 
 
-Waffle is focused around a Kanban development life-cycle and acts as a dynamic Kanban board. A Kanban board is a tool to allow developers in agile life-cycles continuously move stories and issues throughout production processes. These boards are usually written on a physical board as we observe below:
+To help with monitoring progress, Kanban development uses a Kanban board. A Kanban board is a tool to allow developers in agile life-cycles continuously monitor stories and issues as they pass through different phases of development. These boards are usually written on a physical board as we observe below:
 ![Typical Kanban Board](/images/kanban_board.jpg?raw=true "Typical Kanban Board")
 - When a team has decided to add a story, they write it down on a note and post it in the "To Do" column.
 - When the team is ready to work on this story, they can move it into the "Doing" column.
 - When the team is finished with the story, they move the note into the "Done" column.
 
 This style of monitoring allows teams to continuously move stories and issues throughout the development life-cycle.
+
+Waffle is focused around a Kanban development life-cycle and acts as a dynamic Kanban board. Waffle's Kanban board allows developers to easily track their progress with GitHub integration and simple to use UI. This makes it easy for experienced GitHub users to adopt this tool into their development processes.
 
 Up Next: [Set-Up](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/set_up.md)
