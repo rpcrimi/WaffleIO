@@ -13,6 +13,8 @@ After going through the previous steps, you should be viewing the following boar
 
 - Located down the left hand side of the board are ways to navigate to different parts of your Waffle board, including inviting others, settings, and metrics.
 
-- Waffle acts as a digital Kanban board. The default columns for Waffle's Kanban board are labeled "Backlog", "Ready", "In-Progress", and "Done". These columns can be modified in "Settings". For example, a team could delete the "Ready" column if they deem it unnecessary. Teams can add stories and issues through the "Add Issue" button which will add a new note to the first column of the board ("Backlog").
+- Waffle acts as a digital Kanban board. The default columns for Waffle's board are labeled "Backlog", "Ready", "In-Progress", and "Done". These columns can be modified in "Settings". For example, a team could delete the "Ready" column if they deem it unnecessary. Teams can also add columns to their Waffle board. For example, it is customary for agile teams to have a "Review" process in which they ensure that the code being committed is sufficiently bug-free. A team following this custom can add an "In-Review" column to allow developers to note which stories are available to be reviewed. 
+
+- Teams can add stories and issues through the "Add Issue" button which will add a new note to the first column of the board ("Backlog").
 
 Up Next: [Adding Stories](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/adding_stories.md)
