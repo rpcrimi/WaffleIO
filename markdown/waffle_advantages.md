@@ -13,7 +13,7 @@ While Pivital Tracker has slightly more features, their user interface can be ha
 ## Metrics
 While Waffle's metrics features are not as abundant as Pivital Tracker's and similar software systems, it does have the advantage of simplicity. We can see this in the following two examples:
 ### Waffle Metric
-![Waffle Metrics](/images/w_metrics.svg?raw=true "Waffle Metrics")
+![Waffle Metrics](/images/w_metrics.png?raw=true "Waffle Metrics")
 ### Pivital Tracker Metric
 ![Pivital Metrics](/images/pivital_metric.png?raw=true "Pivital Metrics")
 While Pivital supplies teams with more metrics, Waffle's metrics are easier to parse. This can make it easier for novice teams to understand their efficiency and velocity.
