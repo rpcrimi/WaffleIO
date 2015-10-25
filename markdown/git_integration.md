@@ -26,4 +26,4 @@ echo "Stuff about adding stories" >> markdown/adding_stories.md
 - If we look at our GitHub issues, we will also see that this issue has been closed:
 ![Issue Closed](/images/gh_issue_1_closed.png?raw=true "Issue Closed")
 
-Up Next: [More Git Integration](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/git_integration_more.md)
+Up Next: [Git Integration: More!](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/git_integration_more.md)
