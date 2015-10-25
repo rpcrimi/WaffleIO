@@ -1,25 +1,44 @@
 # Kanban
 
-Kanban is an approach to software development where teams focus on continuous delivery. It is an agile life-cycle used when teams need to react to ever changing requirements from customers. 
+Kanban is an approach to software development in which teams focus on continuous delivery to customers. It implements an agile life-cycle, which applies to situations in which teams need to react to ever changing demands from customers. 
 
 ## Kanban's Roots
 ![Toyota Kanban](/images/toyota_kanban.jpg?raw=true "Toyota Kanban")
 
-Originally developed by Toyota in 1953, Kanban was developed as a production technique to meet the ever changing demand for their products. A research team at Toyota studied how supermarkets efficiently stocked their shelves and realized that the supermarkets would stock only the supply of items that they expected customers would demand at a given time. For example, when the demand for a product decreased, so would the supply of that product. Toyota inherited this technique to their production floor. Let's image a production crew consisting of three teams: A, B, and C. Team A feeds their work to B and likewise from B to C. If team B became overwhelmed with work, Kanban would allow team A to stop production and move to something else. Furthermore, since team C would see a decrease in incoming work, they could focus their attention on something else. When team B is back on track, teams A and C can start working on their original tasks. 
+Kanban was developed by Toyota in 1953 as a production technique to meet the ever changing demand for its products. A research team studied how supermarkets implemented a product similar production technique to efficiently stocked their shelves. The team realized that the supermarkets would stock only the supply of items that they expected customers would demand at a given time. For example, when the demand for a product decreased, the supermarket would reduce the supply of that product. Previously, supermarkets would keep a fixed stock of all of their products. However, this was innefficient as the supermarket could not react to change. 
 
-This style of production allows for products to leave the facility in a continuous stream. A particular team can never be blocked waiting for another team to finish work. If such a block occurs, the blocked team simply switches their focus to another task, thus ensuring continuous production.
+Toyota applied this technique to its production floor. Let's image a production crew consisting of three teams: A, B, and C. Team A feeds its work to B and B feeds its work to C. If team B becomes overwhelmed with work, Kanban enables team A to stop production and focus on another task. Because team C now sees a decrease in incoming work, Kanban enables C to also focus its attention on another task. When team B is back on track, teams A and C can go back to their their original tasks. 
 
-## Kanban Development
-Kanban development emerged from Toyota's production technique. Kanban development tries to keep a continuous development process while not overloading team members. 
+This style of production allows for products to leave the facility in a continuous stream. A given team is never ide, waiting for another team to finish its work. If a bottleneck occurs during one part of the production cycle, resources are refocused to other tasks, ensuring continuous production.
 
-To help with monitoring progress, Kanban development uses a Kanban board. A Kanban board is a tool to allow developers in agile life-cycles continuously monitor stories and issues as they pass through different phases of development. These boards are usually written on a physical board as we observe below:
+## Kanban Software Development
+
+To help monitor the progress of a software project, some development teams use a "Kanban board", such as that shown in the above figure. The Kanban board enables developers in agile life-cycles to continuously monitor user stories and issues as they pass through different phases of development, analogous to the Toyota assembly line. The Kanban board is usually a physical board with tasks written on individual pieces of paper, as the figure below shows:
 ![Typical Kanban Board](/images/kanban_board.jpg?raw=true "Typical Kanban Board")
-- When a team has decided to add a story, they write it down on a note and post it in the "To Do" column.
-- When the team is ready to work on this story, they can move it into the "Doing" column.
-- When the team is finished with the story, they move the note into the "Done" column.
+- When a team has decided to add a story, it writes it down on paper and posts it in the "To Do" column.
+- When the team is ready to work on the story, it moves its paper to the "Doing" column.
+- When the team is finished with the story, it moves its paper to the "Done" column.
 
-This style of monitoring allows teams to continuously move stories and issues throughout the development life-cycle.
+This allows teams to continuously track the progress of stories and issues throughout the software development life-cycle.
 
-Waffle is focused around a Kanban development life-cycle and acts as a dynamic Kanban board. Waffle's Kanban board allows developers to easily track their progress with GitHub integration and simple to use UI. This makes it easy for experienced GitHub users to adopt this tool into their development processes.
+Waffle is an online software focused around Kanban development life-cycles. It acts as a dynamic Kanban board, where users can add and move issues throughout the system. Waffle's Kanban board allows developers to easily track their progress with GitHub integration and simple to use UI. This makes it easy for experienced GitHub users to adopt this tool into their development processes.
 
 Up Next: [Set-Up](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/set_up.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

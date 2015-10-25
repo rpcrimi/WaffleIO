@@ -1,10 +1,10 @@
 # Git Integration
 
-The "In-Progess" column should contain all stories and issues that are being worked on by developers in the current iteration. Again, we can drag the issue over into this column to mark it as "In-Progress". Once issues are moved into this column we can begin to integrate Git into Waffle.
+The "In-Progess" column should contain all stories and issues that are being worked on by developers in the current iteration. Again, we can drag the issue over into this column to mark it as "In-Progress". Once issues are moved into this column we can begin to integrate Git with Waffle.
 
 - First, open a new terminal:
 - If have not already done so, install git.
-- Change your working directory to where your repository is located:
+- Change your working directory to where your GitHub repository is located:
 ![Change CWD](/images/git_cwd.png?raw=true "Change CWD")
 - Create a new file and add some changes to it. For simplicity, we can use the following command:
 ```

@@ -17,7 +17,7 @@ Lets add a new story to our Kanban board.
 	- Story points are a measure of how much time a story will take to complete. 
 	- Story points are typically measured in hours.
 - Lets move this story into the "Ready" column. To do so, click and drag the story over into the "Ready" column. The "Ready" column contains stories that are ready to be worked on during the current iteration.
-- You can assign this story to a GitHub user as follows:
+- You can assign this story to an owner as follows:
 ![Assign Story](/images/w_assign_story.png?raw=true "Assign Story")
 
 You are now ready to start working on your issues.
