@@ -1,6 +1,6 @@
 # Adding Stories and Issues
 
-Lets add a new story to our Kanban board. 
+Let's add a new story to our Kanban board. 
 
 - Click on the "Add Issue" button at the top of the screen. This will bring up the following box:
 ![Add Story](/images/w_add_story.png?raw=true "Add Story")
@@ -14,7 +14,7 @@ Lets add a new story to our Kanban board.
 
 - You can assign the story points as follows:
 ![Assign Points](/images/w_assign_points.png?raw=true "Assign Points")
-	- Story points are a measure of how much time a story will take to complete. 
+	- Story points are a measure of how much time a story or issue will take to complete. 
 	- Story points are typically measured in hours.
 - Lets move this story into the "Ready" column. To do so, click and drag the story over into the "Ready" column. The "Ready" column contains stories that are ready to be worked on during the current iteration.
 - You can assign this story to an owner as follows:
