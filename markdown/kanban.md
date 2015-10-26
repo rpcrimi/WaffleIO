@@ -13,7 +13,7 @@ This style of production allows for products to leave the facility in a continuo
 
 ## Kanban Software Development
 
-To help monitor the progress of a software project, some development teams use a "Kanban board", such as that shown in the above figure. The Kanban board enables developers in agile life-cycles to continuously monitor user stories and issues as they pass through different phases of development, analogous to the Toyota assembly line. The Kanban board is usually a physical board with tasks written on individual pieces of paper, as the figure below shows:
+To help monitor the progress of a software project, some development teams use a "Kanban board", such as that shown in the figure below. The Kanban board enables developers in agile life-cycles to continuously monitor user stories and issues as they pass through different phases of development, analogous to the Toyota assembly line. The Kanban board is usually a physical board with tasks written on individual pieces of paper, as the figure below shows:
 ![Typical Kanban Board](/images/kanban_board.jpg?raw=true "Typical Kanban Board")
 - When a team has decided to add a story, it writes it down on paper and posts it in the "To Do" column.
 - When the team is ready to work on the story, it moves its paper to the "Doing" column.

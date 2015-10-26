@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Waffle.io is an online Kanban board integrated with GitHub. It was created in 2003 by a group of interns at Rally Software, right here in Boulder. Waffle helps development teams track GitHub tasks, issues, and user stories with easy-to-use graphical and command line user interfaces. Thiis presentation uses an example project to demonstrate Waffle's abundant features.
+Waffle.io is an online Kanban board integrated with GitHub. It was created in 2003 by a group of interns at Rally Software, right here in Boulder. Waffle helps development teams track GitHub tasks, issues, and user stories with easy-to-use graphical and command line user interfaces. This presentation uses an example project to demonstrate Waffle's abundant features.
 
 ## Table of Contents
 1. [Kanban](https://github.com/rpcrimi/WaffleIO/blob/master/markdown/kanban.md)

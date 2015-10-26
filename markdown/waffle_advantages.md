@@ -1,6 +1,6 @@
 # Waffle Advantages
 
-Waffle's main advantage over similar online software is how easy it is to use. Waffle has far less features compared to software systems such as Pivital Tracker and Jira; However, while this may sound disadvantageous, it is very useful for certain development teams. If teams can deal with the trade-offs between features and ease-of-use, Waffle is a perfect software system for them. 
+Waffle's main advantage over similar online software is how easy it is to use. Waffle has far less features compared to software systems such as Pivital Tracker and Jira; However, while this may sound disadvantageous, it is very useful for certain development teams. If teams can deal with the trade-offs between features and ease-of-use, Waffle is a perfect development system for them. 
 
 ## Dependencies
 Development teams do not need to worry about setting up their infrastructure and installing dependencies. Teams can simply create a new GitHub repository and then integrate it with Waffle. Terminal commands are also much easier to use as they are slight modifications of git commands. Since git is the most popular open-source subversioning system, most developers are already familiar with these commands, which lessens the learning-curve.
